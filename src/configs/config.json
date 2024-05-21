@@ -1,0 +1,28 @@
+{
+  "token": {
+    "name": "PPepe",
+    "ticker": "PPEPE",
+    "contractAddress": "0x98830a6cc6f8964cec4ffd65f19edebba6fef865",
+    "burnAddress": "0x000000000000000000000000000000000000dead",
+    "decimals": 9,
+    "totalSupply": 1000000000000000000
+  },
+  "InfuraProjectId": "91191d3d0d4442678052b7845efa8454",
+  "bitquery": {
+    "url": "https://graphql.bitquery.io/",
+    "apikey": "BQY2rXqqAGKyB45v0Y9N7o6jZs8eCKze"
+  },
+  "ETH": {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "network": "ethereum",
+    "pairAddress": "0x2dbb59cf165d2c268c5d9e15ce5f47cad043e568",
+    "apiKey": "717MB39JZW8KGRUQMYRK8TDSNRICDQWAUE",
+    "gasApiKey": "6f4ba0ba942858a3935b695473487a0668da08372f4ca30b79394b9c318d",
+    "explorer": "https://api.etherscan.io/api",
+    "graphUri": "https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2",
+    "chartUrl": "https://www.dextools.io/api/uniswap/1/pairexplorer?v=1.11.7&pair=0x2dbb59cf165d2c268c5d9e15ce5f47cad043e568&ts=1622976505-0&h=1",
+    "ppepe": "0x98830a6cc6f8964cec4ffd65f19edebba6fef865",
+    "pepe": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "shib": "0xfD1450a131599ff34f3Be1775D8c8Bf79E353D8c"
+  }
+}

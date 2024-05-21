@@ -1,0 +1,11 @@
+{
+  "header": "#fff",
+  "background": "#7396d1",
+  "start": "#bedecb",
+  "statusBar": "#182b21",
+  "cardTitle": "#fff",
+  "cardText": "#0751bf",
+  "specialValue": "#fbc309",
+  "headerGradient": ["#3730a3", "#6366f1", "#581c87"],
+  "cardGradient": ["#f5fbf8", "#ebf6f1", "#e6f4ed"]
+}

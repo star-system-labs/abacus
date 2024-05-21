@@ -52,4 +52,6 @@ target 'abacus' do
       :mac_catalyst_enabled => false
     )
   end
+  pod 'react-native-sqlite-storage', :path => '../node_modules/react-native-sqlite-storage'
+
 end
